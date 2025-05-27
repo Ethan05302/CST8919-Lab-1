@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Dashboard</title>
+</head>
+<body>
+    <h1>Welcome, {{ user.name }}!</h1>
+    <p>Email: {{ user.email }}</p>
+    <img src="{{ user.picture }}" alt="User Picture" width="100">
+    <br><br>
+    <a href="/logout">Logout</a>
+</body>
+</html>
