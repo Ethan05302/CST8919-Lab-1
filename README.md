@@ -70,7 +70,6 @@ https://youtu.be/BomSTYPGjws
 .
 ├── app.py
 ├── requirements.txt
-├── .gitignore
 ├── templates/
 │   ├── home.html
 │   └── dashboard.html
@@ -80,9 +79,7 @@ https://youtu.be/BomSTYPGjws
 ---
 
 ## 7. GitHub Repository
-
-This project is pushed to a public GitHub repository with multiple commits documenting progress.  
-The demo video link is included above in this README.
+https://github.com/Ethan05302/CST8919-Lab-1/tree/main/flask-auth0-lab
 
 ---
 
